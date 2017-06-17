@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="LawSystemBackSupport"
+  id="myeclipse.1496989722416"
+  context-root="/LawSystemBackSupport"
+  j2ee-spec="5.0"
+  archive="LawSystemBackSupport.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
